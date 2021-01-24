@@ -1,0 +1,16 @@
+@import './components/PageBody/PageBody.scss';
+@import './components/CurrentDate/CurrentDate.scss';
+@import './components/CardList/CardList.scss';
+@import './components/PageCard/PageCard.scss';
+@import './components/BodyFooter/BodyFooter.scss';
+@import './components/TodoInput/TodoInput.scss';
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body{
+  margin: 0%;
+}
+
+*{
+  color: #557174;
+  font-family: 'Ubuntu', sans-serif;
+}

@@ -1,0 +1,34 @@
+.date{
+    display: flex;
+    margin: 1rem;
+    padding: 0.1rem;
+    margin-top: 1.4rem;
+    margin-bottom: 0;
+    text-align: center;
+    align-items: baseline;
+    justify-content: space-between;
+    
+    .left{
+        display: flex;
+        align-items: center;
+    }
+
+    .day{
+        margin-right: .6rem;
+        font-size: 2.1rem;
+        font-weight: bold;
+    }
+    .weekday{
+        margin-top: 0.7rem;
+        font-size: 1rem;
+        font-weight: bold;
+    }
+
+    .month-year{
+        display: flex;
+        flex-direction: column;
+        .month{
+            font-weight: bold;
+        }
+    }
+}

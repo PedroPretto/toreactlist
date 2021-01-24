@@ -1,0 +1,64 @@
+.card{
+    display: flex;
+    height: 3rem;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px;
+
+    span{
+        
+        display: block;
+        width: 15rem;
+        word-wrap: break-word;
+    }
+
+    .done-task{
+        opacity: 30%;
+    }
+    
+    .buttons{
+        text-align: end;
+
+        button.done{
+            border: 1px solid #00af91;
+            color: #00af91;
+            background-color: #fff;
+            margin-left: .5rem;
+            width: 20px;
+            height: 20px;
+            padding: 0;
+            border-radius: 50%;
+            transition: .2s ease-in;
+
+            &:hover{
+                color: #fff;
+                background: #00af91;
+            }
+            
+        }
+
+        button.delete{
+            border: 1px solid #c70039;
+            color: #c70039;
+            background-color: #fff;
+            margin-left: .5rem;
+            width: 20px;
+            height: 20px;
+            padding: 0;
+            border-radius: 50%;
+            transition: .2s ease-in;
+
+            &:hover{
+                color: #fff;
+                background: #c70039;
+            }
+            
+        }
+
+    }
+
+    .task.outlined{
+        text-decoration: line-through;
+    }
+    
+}
