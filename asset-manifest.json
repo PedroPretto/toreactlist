@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/toreactlist/static/css/main.3f5aef9a.chunk.css",
+    "main.css": "/toreactlist/static/css/main.fd31b14e.chunk.css",
     "main.js": "/toreactlist/static/js/main.d5243a53.chunk.js",
     "main.js.map": "/toreactlist/static/js/main.d5243a53.chunk.js.map",
     "runtime-main.js": "/toreactlist/static/js/runtime-main.b3b7821c.js",
@@ -8,13 +8,13 @@
     "static/js/2.77d2055d.chunk.js": "/toreactlist/static/js/2.77d2055d.chunk.js",
     "static/js/2.77d2055d.chunk.js.map": "/toreactlist/static/js/2.77d2055d.chunk.js.map",
     "index.html": "/toreactlist/index.html",
-    "static/css/main.3f5aef9a.chunk.css.map": "/toreactlist/static/css/main.3f5aef9a.chunk.css.map",
+    "static/css/main.fd31b14e.chunk.css.map": "/toreactlist/static/css/main.fd31b14e.chunk.css.map",
     "static/js/2.77d2055d.chunk.js.LICENSE.txt": "/toreactlist/static/js/2.77d2055d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b3b7821c.js",
     "static/js/2.77d2055d.chunk.js",
-    "static/css/main.3f5aef9a.chunk.css",
+    "static/css/main.fd31b14e.chunk.css",
     "static/js/main.d5243a53.chunk.js"
   ]
 }
